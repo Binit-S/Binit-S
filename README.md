@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Binit-S
 - 👀 I’m interested in Technological Bat Sh1t
 - 🌱 I’m currently learning JS while doing Bachelor's in CSE
-- 💞️ I’m looking to collaborate on a Date 💕
 - 📫 How to reach me https://www.linkedin.com/in/binit-saha-5557401a1/ ~LinkedIn
 - 😄 Pronouns: Hehehehe
 - ⚡ Fun fact: ... Null ...
